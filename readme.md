@@ -36,7 +36,7 @@ Three types of users are able to log in the system. Admins can manipulate record
 
 ### Note
 Some features are missing.
-1. route restriction and redirection. (every feature is done through ajax request so these additional features couldnt be implemented due to lack of time)
+1. route restriction and redirection. (not in requirements but every feature is done through ajax request so these additional features couldnt be implemented due to lack of time)
 2. Adding new records.
 3. Registering new users (not in requirements but it is a fundamental part of every application)
 
