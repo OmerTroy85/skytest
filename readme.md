@@ -26,7 +26,7 @@ php artisan migrate
 ```
 
 ### Working
-Three types of users are able to log in the system. Admins can maniuplate records of all three types. User can manipulate bloggers information and bloggers can only add blogs. 
+Three types of users are able to log in the system. Admins can manipulate records of all three types. User can manipulate bloggers information and bloggers can only add blogs. 
 
 ### Features
 1. Authentication system through ajax and passport. Routes are defined in web and api.php
